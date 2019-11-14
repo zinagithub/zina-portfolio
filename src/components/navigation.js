@@ -4,14 +4,17 @@ import './navigation.css'
 class Navigation extends React.Component {
 
   render() {
+  	const arrLinks = ['About','Skils','Projects','Contact'];
+    const displayLinks = arrLinks.map((val, i) => {
+    	return <li key = {i}><a href = {'#' + val} >{val}</a></li>
+    }
+
+    ); 
   	return (
   		 <nav>
   		    <h1 className = 'logo'>Zina</h1>
             <ul>
-            	<li><a href = '#'>About</a></li>
-            	<li><a href = '#'>Skils</a></li>
-            	<li><a href = '#'>Projects</a></li>
-            	<li><a href = '#'>Contact</a></li>
+            	{displayLinks}
             </ul>
          </nav>
   		);
