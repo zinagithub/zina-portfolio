@@ -12,7 +12,7 @@ class Hero extends React.Component {
   	}
   	return (
   		 <div className = 'hero' style= {backHero}>
-           <h1>Zina Protfolio</h1>
+           <h1 className = 'herTitle'>Zina Protfolio</h1>
            <p>Front End - Back End - Devlopper</p>
   		 </div>
  		);
