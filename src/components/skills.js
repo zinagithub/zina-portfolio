@@ -1,30 +1,6 @@
 import React from 'react';
 import './skills.css'
 
-
-const myIcons = [
-  {
-    icon : 'fa fa-html5',
-    title: 'HTML5',
-    description : 'Hyper text markup luanguage' 
-  },
-  {
-    icon : 'fa fa-css3',
-    title: 'CSS3',
-    description : 'Hyper text markup luanguage'
-  },
-  {
-    icon : 'fa fa-html5',
-    title: 'HTML5',
-    description : 'Hyper text markup luanguage' 
-  },
-  {
-    icon : 'fa fa-css3',
-    title: 'CSS3',
-    description : 'Hyper text markup luanguage'
-  }
-   
-];
 class Skills extends React.Component {
 
   render() {

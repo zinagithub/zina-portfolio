@@ -1,6 +1,6 @@
 nav {
 	align-items: center;
-	background-color: #1d809f;
+	/*background-color: #1d809f;*/
 	display : flex;
 	justify-content: space-between;
 	padding-left: 20px;
@@ -14,9 +14,32 @@ nav ul li {
 	margin-right: 15px;
 }
 nav ul li a {
-	color : #FFF;
+	/*color : #FFF;*/
+	color : #212529;
 	text-decoration: none;
 }
 .logo {
-	color : #FFF;
+	/*color : #FFF;*/
+}
+.zLetter {
+	color : #ff7675;
+	font-size: 40px;
+	font-style: italic;
+	position : relative;	
+	top : 0px;
+}
+.iLetter {
+   text-transform: uppercase;
+}
+.aLetter {
+   text-transform: uppercase;
+}
+.nLetter {
+	color : /*#f39c12*/#1dd1a1;
+	font-size: 45px;
+	font-style: italic;
+	position : relative;
+	
+	text-transform: uppercase;
+	top : -10px;
 }

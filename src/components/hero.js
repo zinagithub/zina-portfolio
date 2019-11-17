@@ -7,7 +7,8 @@ class Hero extends React.Component {
 
   render() {
   	const backHero = {
-  		backgroundColor : "#f39c12",
+  		//backgroundColor : "#f39c12",
+      backgroundColor : "#1dd1a1",
   		height : '400px',
   	}
   	return (
