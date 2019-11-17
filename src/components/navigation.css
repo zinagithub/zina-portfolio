@@ -18,15 +18,15 @@ nav ul li a {
 	color : #212529;
 	text-decoration: none;
 }
-.logo {
-	/*color : #FFF;*/
-}
+/*.logo {
+	color : #FFF;
+}*/
 .zLetter {
 	color : #ff7675;
 	font-size: 40px;
 	font-style: italic;
 	position : relative;	
-	top : 0px;
+	/*top : 0px;*/
 }
 .iLetter {
    text-transform: uppercase;
