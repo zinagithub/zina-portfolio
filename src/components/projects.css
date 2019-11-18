@@ -1,0 +1,15 @@
+.project {
+	align-items: center;
+	background-color: #1dd1a1;
+	border-radius: 5px;
+	display : flex;
+	flex-direction: column;
+	justify-content: space-around;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	padding: 20px;
+}
+.projects {
+	align-items: center;
+	margin : 0 auto;
+}

@@ -1,0 +1,16 @@
+.hero {
+	color : /*#212529*/#dfe6e9;
+	letter-spacing: .4rem;	
+	padding-left: 40px;
+	padding-right: 40px;
+	padding-top: 50px;
+	text-align: left;
+	word-spacing: 1rem;
+}
+h1 {
+  line-height: 11vh;
+}
+button  {
+	margin-left: 40px;
+	margin-top: 10px;	
+}
