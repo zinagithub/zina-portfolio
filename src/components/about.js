@@ -1,13 +1,12 @@
 import React from 'react';
-import './hero.css'
+import './about.css'
 
 
 
-class Hero extends React.Component {
+class About extends React.Component {
 
   render() {
   	const backHero = {
-  		//backgroundColor : "#f39c12",
       backgroundColor : "#1dd1a1",
   		height : '400px',
   	}
@@ -22,4 +21,4 @@ class Hero extends React.Component {
 
 }
 
-export default Hero;
+export default About;

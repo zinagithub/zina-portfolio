@@ -1,8 +1,8 @@
 import React from 'react';
-import './footer.css'
+import './contact.css'
 
 
-class FooterElm extends React.Component {
+class Contact extends React.Component {
 
   render() {
   	const arrLinks = ['GitHub','CodePen','LinkedIn','Instagram','Email'];
@@ -22,4 +22,4 @@ class FooterElm extends React.Component {
 
 }
 
-export default FooterElm;
+export default Contact;

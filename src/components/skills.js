@@ -59,7 +59,7 @@ class Icons extends React.Component {
 
   render() {
       return (
-        <div className = 'col-xs-6 col-sm-3'>
+        <div className = 'col-xs-6 col-sm-4 col-md-3'>
             <span>{this.props.myIcon}</span>
             <h4>{this.props.myTitle}</h4>
             <p>{this.props.desc}</p>

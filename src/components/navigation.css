@@ -12,33 +12,25 @@ nav ul li {
 	display : inline-block;
 	margin-right: 15px;
 }
-nav ul li a {
-	
+nav ul li a {	
 	color : #212529;
 	text-decoration: none;
 }
-/*.logo {
-	color : #FFF;
-}*/
 .zLetter {
 	color : #ff7675;
 	font-size: 40px;
 	font-style: italic;
 	position : relative;	
-	/*top : 0px;*/
 }
-.iLetter {
-   text-transform: uppercase;
-}
-.aLetter {
+.aLetter,  .iLetter {
+   color : #f39c12;	
    text-transform: uppercase;
 }
 .nLetter {
-	color : /*#f39c12*/#1dd1a1;
+	color : #1dd1a1;
 	font-size: 45px;
 	font-style: italic;
-	position : relative;
-	
+	position : relative;	
 	text-transform: uppercase;
 	top : -10px;
 }

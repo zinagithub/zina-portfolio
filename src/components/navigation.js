@@ -1,12 +1,14 @@
 import React from 'react';
+import {Link} from 'react-router-dom';
 import './navigation.css'
 
 class Navigation extends React.Component {
 
   render() {
   	const arrLinks = ['About','Skills','Projects','Contact'];
+    const navColor = {color : '#212529'};
     const displayLinks = arrLinks.map((val, i) => {
-    	return <li key = {i}><a href = {'#' + val} >{val}</a></li>
+    	return <Link to = {'/' + val} style = {navColor} ><li key = {i}>{val}</li></Link>
     }
 
     ); 
