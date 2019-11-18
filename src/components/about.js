@@ -8,14 +8,21 @@ class About extends React.Component {
   render() {
   	const backHero = {
       backgroundColor : "#1dd1a1",
-  		height : '400px',
+  		height : '550px',
   	}
+
   	return (
+      
   		 <div className = 'hero' style= {backHero}>
-           <h1 className = 'herTitle'>Zina Protfolio</h1>
-           <p>Front End - Back End - Devlopper</p>
-           <a href = "#">Contact</a>
+        <div className = 'container'>
+           <h1 className = 'herTitle'>About Me</h1>
+           <h1 className="parag">I’m Zina Talaa, a software engineer and developer living
+            in <a>ALGERIA</a>, currently not working.
+           </h1>
+           
   		 </div>
+       <button className="btn btn-primary btn-lg">Contact</button>
+       </div>
  		);
   }
 
