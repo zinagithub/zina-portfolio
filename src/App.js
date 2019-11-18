@@ -4,6 +4,7 @@ import Header from './components/header';
 import Hero from './components/hero';
 import Skills from './components/skills';
 import Projects from './components/projects';
+import FooterElm from './components/footer';
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
         <Hero />
         <Skills />
         <Projects />
+        <FooterElm />
     </div>
   );
 }

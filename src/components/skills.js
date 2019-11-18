@@ -9,14 +9,19 @@ class Skills extends React.Component {
   		 <div className = 'skills'>
             <h3 className = 'title1'>Skills</h3>
             <h2 className = 'title2'>Here is my Skills</h2>
+            <div className = 'container'>
             <div className = 'row'>
+            
               {
+
               arrIcons.map((elm, index) => {
               
                return (<Icons key = {index} myIcon = {elm.icon}   myTitle= {elm.title} 
                              desc = {elm.description} />)
               })  
               }
+             
+            </div> 
             </div>
   		 </div>
  		);
@@ -54,7 +59,7 @@ class Icons extends React.Component {
 
   render() {
       return (
-        <div>
+        <div className = 'col-xs-6 col-sm-3'>
             <span>{this.props.myIcon}</span>
             <h4>{this.props.myTitle}</h4>
             <p>{this.props.desc}</p>

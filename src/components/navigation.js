@@ -17,7 +17,7 @@ class Navigation extends React.Component {
                                  <span className = 'nLetter'>n</span>
                                  <span className = 'aLetter'>a</span>
           </h1>
-            <ul>
+            <ul className="hidden-xs">
             	{displayLinks}
             </ul>
          </nav>

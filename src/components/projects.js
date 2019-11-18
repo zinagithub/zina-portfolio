@@ -15,12 +15,12 @@ function Projects(){
 		  ]);
 
 	return (
-       <div className='projects'>
+          <div className = 'container projects'>
           {projects.map(prj => (
              <Project name={prj.name} description= {prj.description} img = {prj.img} />
           	)
           	)}
-       </div>
+         </div>
 		)
 }
 export default Projects;
