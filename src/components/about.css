@@ -7,14 +7,10 @@
 	text-align: left;
 	word-spacing: 1rem;
 }
-
-.hero h1 {
+h1 {
   line-height: 11vh;
 }
-.parag{
-
-}
 button  {
-	margin-top: 10px;
 	margin-left: 40px;
+	margin-top: 10px;	
 }
