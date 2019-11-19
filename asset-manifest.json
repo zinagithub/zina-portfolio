@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/home/static/css/main.406ffb0e.chunk.css",
-    "main.js": "/home/static/js/main.239a8205.chunk.js",
-    "main.js.map": "/home/static/js/main.239a8205.chunk.js.map",
-    "runtime-main.js": "/home/static/js/runtime-main.dd0e7dfe.js",
-    "runtime-main.js.map": "/home/static/js/runtime-main.dd0e7dfe.js.map",
-    "static/js/2.e489d29f.chunk.js": "/home/static/js/2.e489d29f.chunk.js",
-    "static/js/2.e489d29f.chunk.js.map": "/home/static/js/2.e489d29f.chunk.js.map",
-    "index.html": "/home/index.html",
-    "precache-manifest.cce9049d0e1cf2a4683136ebee7da304.js": "/home/precache-manifest.cce9049d0e1cf2a4683136ebee7da304.js",
-    "service-worker.js": "/home/service-worker.js",
-    "static/css/main.406ffb0e.chunk.css.map": "/home/static/css/main.406ffb0e.chunk.css.map",
-    "static/media/designecologist.jpg": "/home/static/media/designecologist.971f16e9.jpg",
-    "static/media/food.jpg": "/home/static/media/food.2edff820.jpg",
-    "static/media/reading-about-code-on-hackernoon.jpg": "/home/static/media/reading-about-code-on-hackernoon.e5047b8a.jpg"
+    "main.css": "/zina-portfolio/static/css/main.406ffb0e.chunk.css",
+    "main.js": "/zina-portfolio/static/js/main.e6f25703.chunk.js",
+    "main.js.map": "/zina-portfolio/static/js/main.e6f25703.chunk.js.map",
+    "runtime-main.js": "/zina-portfolio/static/js/runtime-main.9e8c6bdd.js",
+    "runtime-main.js.map": "/zina-portfolio/static/js/runtime-main.9e8c6bdd.js.map",
+    "static/js/2.e489d29f.chunk.js": "/zina-portfolio/static/js/2.e489d29f.chunk.js",
+    "static/js/2.e489d29f.chunk.js.map": "/zina-portfolio/static/js/2.e489d29f.chunk.js.map",
+    "index.html": "/zina-portfolio/index.html",
+    "precache-manifest.7deef0f47438289f7b65d493b0cd6117.js": "/zina-portfolio/precache-manifest.7deef0f47438289f7b65d493b0cd6117.js",
+    "service-worker.js": "/zina-portfolio/service-worker.js",
+    "static/css/main.406ffb0e.chunk.css.map": "/zina-portfolio/static/css/main.406ffb0e.chunk.css.map",
+    "static/media/designecologist.jpg": "/zina-portfolio/static/media/designecologist.971f16e9.jpg",
+    "static/media/food.jpg": "/zina-portfolio/static/media/food.2edff820.jpg",
+    "static/media/reading-about-code-on-hackernoon.jpg": "/zina-portfolio/static/media/reading-about-code-on-hackernoon.e5047b8a.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.dd0e7dfe.js",
+    "static/js/runtime-main.9e8c6bdd.js",
     "static/js/2.e489d29f.chunk.js",
     "static/css/main.406ffb0e.chunk.css",
-    "static/js/main.239a8205.chunk.js"
+    "static/js/main.e6f25703.chunk.js"
   ]
 }
