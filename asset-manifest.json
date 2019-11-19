@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.406ffb0e.chunk.css",
-    "main.js": "/static/js/main.6acf44db.chunk.js",
-    "main.js.map": "/static/js/main.6acf44db.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.3e8875c5.js",
-    "runtime-main.js.map": "/static/js/runtime-main.3e8875c5.js.map",
-    "static/js/2.e489d29f.chunk.js": "/static/js/2.e489d29f.chunk.js",
-    "static/js/2.e489d29f.chunk.js.map": "/static/js/2.e489d29f.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.826f48408f088e1f9385a132b865a568.js": "/precache-manifest.826f48408f088e1f9385a132b865a568.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.406ffb0e.chunk.css.map": "/static/css/main.406ffb0e.chunk.css.map",
-    "static/media/designecologist.jpg": "/static/media/designecologist.971f16e9.jpg",
-    "static/media/food.jpg": "/static/media/food.2edff820.jpg",
-    "static/media/reading-about-code-on-hackernoon.jpg": "/static/media/reading-about-code-on-hackernoon.e5047b8a.jpg"
+    "main.css": "/home/static/css/main.406ffb0e.chunk.css",
+    "main.js": "/home/static/js/main.239a8205.chunk.js",
+    "main.js.map": "/home/static/js/main.239a8205.chunk.js.map",
+    "runtime-main.js": "/home/static/js/runtime-main.dd0e7dfe.js",
+    "runtime-main.js.map": "/home/static/js/runtime-main.dd0e7dfe.js.map",
+    "static/js/2.e489d29f.chunk.js": "/home/static/js/2.e489d29f.chunk.js",
+    "static/js/2.e489d29f.chunk.js.map": "/home/static/js/2.e489d29f.chunk.js.map",
+    "index.html": "/home/index.html",
+    "precache-manifest.cce9049d0e1cf2a4683136ebee7da304.js": "/home/precache-manifest.cce9049d0e1cf2a4683136ebee7da304.js",
+    "service-worker.js": "/home/service-worker.js",
+    "static/css/main.406ffb0e.chunk.css.map": "/home/static/css/main.406ffb0e.chunk.css.map",
+    "static/media/designecologist.jpg": "/home/static/media/designecologist.971f16e9.jpg",
+    "static/media/food.jpg": "/home/static/media/food.2edff820.jpg",
+    "static/media/reading-about-code-on-hackernoon.jpg": "/home/static/media/reading-about-code-on-hackernoon.e5047b8a.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3e8875c5.js",
+    "static/js/runtime-main.dd0e7dfe.js",
     "static/js/2.e489d29f.chunk.js",
     "static/css/main.406ffb0e.chunk.css",
-    "static/js/main.6acf44db.chunk.js"
+    "static/js/main.239a8205.chunk.js"
   ]
 }
