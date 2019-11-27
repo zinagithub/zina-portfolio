@@ -21,8 +21,6 @@ function App() {
       <div className="App">
           <Header />
           <Switch>
-          
-          
           <Route path = "/about" component = {About} />
           <Route path = "/skills" component = {Skills} />
           <Route path = "/projects" component = {Projects} />

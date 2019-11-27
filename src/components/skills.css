@@ -1,5 +1,5 @@
 .skills {
-   background-color: #1d809f;
+   /*background-color: #1d809f;*/
    padding-bottom: 120px;
    padding-top: 120px;
    text-align: center;
@@ -11,7 +11,7 @@
   padding : 0;
 }
 .title2 {
-  color : #fff;	
+  color : gray;	
   font-size: 35px;
   margin-bottom: 50px;
   margin-top :0;

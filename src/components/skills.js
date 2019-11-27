@@ -1,4 +1,10 @@
 import React from 'react';
+import HTML from './img/html.png';
+import CSS from './img/css.png';
+import JS from './img/js.png';
+import REACT from './img/react.png';
+import RUBY from './img/ruby.jpeg';
+import RAILS from './img/rails.png';
 import './skills.css'
 
 class Skills extends React.Component {
@@ -16,7 +22,7 @@ class Skills extends React.Component {
 
               arrIcons.map((elm, index) => {
               
-               return (<Icons key = {index} myIcon = {elm.icon}   myTitle= {elm.title} 
+               return (<Icons key = {index} myIcon = {elm.icon} altTxt={elm.alt}  myTitle= {elm.title} 
                              desc = {elm.description} />)
               })  
               }
@@ -32,23 +38,39 @@ class Skills extends React.Component {
 
 const arrIcons = [
   {
-    icon : <i className="fa fa-html5"></i>,
+    icon : HTML,
+    alt  :'HTML Icon',
     title: 'HTML5',
     description : 'Hyper text markup luanguage' 
   },
   {
-    icon : <i className="fa fa-css3"></i>,
+    icon : CSS,
+    alt  : 'CSS Icon',
     title: 'CSS3',
     description : 'Hyper text markup luanguage'
   },
   {
-    icon : <i className="fa fa-html5"></i>,
-    title: 'HTML5',
+    icon : JS,
+    alt  : 'Javascript Icon',
+    title: 'Javascript',
     description : 'Hyper text markup luanguage' 
   },
   {
-    icon : <i className="fa fa-css3"></i>,
-    title: 'CSS3',
+    icon : REACT,
+    alt  :'React Icon',
+    title: 'React',
+    description : 'Hyper text markup luanguage'
+  },
+  {
+    icon : RUBY,
+    alt  : 'Ruby Icon',
+    title: 'Ruby',
+    description : 'Hyper text markup luanguage'
+  },
+  {
+    icon : RAILS,
+    alt  : 'Rails Icon',
+    title: 'Rails',
     description : 'Hyper text markup luanguage'
   }
    
@@ -59,8 +81,14 @@ class Icons extends React.Component {
 
   render() {
       return (
-        <div className = 'col-xs-6 col-sm-4 col-md-3'>
-            <span>{this.props.myIcon}</span>
+        <div className = 'col-xs-6 col-sm-4 col-md-4'>
+            <img 
+              src={this.props.myIcon} 
+              alt={this.props.altTxt}
+              width="100" 
+              height="100" 
+              class ="img-rounded"
+            />
             <h4>{this.props.myTitle}</h4>
             <p>{this.props.desc}</p>
         </div>

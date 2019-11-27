@@ -17,7 +17,7 @@ class About extends React.Component {
         <div className = 'container'>
            <h1 className = 'herTitle'>About Me</h1>
            <h1 className="parag">I’m Zina Talaa, a software engineer and developer living
-            in <a>ALGERIA</a>, currently not working.
+            in <a>ALGERIA</a>, looking for Front-End postion.
            </h1>
            
   		 </div>
