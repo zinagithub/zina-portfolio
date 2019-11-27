@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7b3cd5a1221ec78dd0f631092b75344e",
+    "revision": "0caf04d6c7479bd5d2224607507570f2",
     "url": "/zina-portfolio/index.html"
   },
   {
-    "revision": "a5dae0966156054a5722",
-    "url": "/zina-portfolio/static/css/main.406ffb0e.chunk.css"
+    "revision": "c5f8e8f69c05f365621c",
+    "url": "/zina-portfolio/static/css/main.3626e8a6.chunk.css"
   },
   {
-    "revision": "8376e91e1356f8466c5a",
-    "url": "/zina-portfolio/static/js/2.e489d29f.chunk.js"
+    "revision": "bc65b92556ce2a56d059",
+    "url": "/zina-portfolio/static/js/2.9089c548.chunk.js"
   },
   {
-    "revision": "a5dae0966156054a5722",
-    "url": "/zina-portfolio/static/js/main.e6f25703.chunk.js"
+    "revision": "c5f8e8f69c05f365621c",
+    "url": "/zina-portfolio/static/js/main.4dca9d97.chunk.js"
   },
   {
     "revision": "c0249f8cd4feb4c6bb9e",
@@ -26,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2edff82045c87266af58a341058ae2da",
     "url": "/zina-portfolio/static/media/food.2edff820.jpg"
+  },
+  {
+    "revision": "954ffb67a832ee00905bf248643b8638",
+    "url": "/zina-portfolio/static/media/homes.954ffb67.png"
   },
   {
     "revision": "e5047b8a5052a36a55a8340347da00e2",
