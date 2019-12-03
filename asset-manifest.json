@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/zina-portfolio/static/css/main.3626e8a6.chunk.css",
-    "main.js": "/zina-portfolio/static/js/main.4dca9d97.chunk.js",
-    "main.js.map": "/zina-portfolio/static/js/main.4dca9d97.chunk.js.map",
+    "main.css": "/zina-portfolio/static/css/main.bea9c866.chunk.css",
+    "main.js": "/zina-portfolio/static/js/main.28103705.chunk.js",
+    "main.js.map": "/zina-portfolio/static/js/main.28103705.chunk.js.map",
     "runtime-main.js": "/zina-portfolio/static/js/runtime-main.9e8c6bdd.js",
     "runtime-main.js.map": "/zina-portfolio/static/js/runtime-main.9e8c6bdd.js.map",
-    "static/js/2.9089c548.chunk.js": "/zina-portfolio/static/js/2.9089c548.chunk.js",
-    "static/js/2.9089c548.chunk.js.map": "/zina-portfolio/static/js/2.9089c548.chunk.js.map",
+    "static/js/2.dcde14a0.chunk.js": "/zina-portfolio/static/js/2.dcde14a0.chunk.js",
+    "static/js/2.dcde14a0.chunk.js.map": "/zina-portfolio/static/js/2.dcde14a0.chunk.js.map",
     "index.html": "/zina-portfolio/index.html",
-    "precache-manifest.0e307903796f2d73175b6f2af0ba5f29.js": "/zina-portfolio/precache-manifest.0e307903796f2d73175b6f2af0ba5f29.js",
+    "precache-manifest.7bd5493ad3854416578fc8aab4ffa916.js": "/zina-portfolio/precache-manifest.7bd5493ad3854416578fc8aab4ffa916.js",
     "service-worker.js": "/zina-portfolio/service-worker.js",
-    "static/css/main.3626e8a6.chunk.css.map": "/zina-portfolio/static/css/main.3626e8a6.chunk.css.map",
+    "static/css/main.bea9c866.chunk.css.map": "/zina-portfolio/static/css/main.bea9c866.chunk.css.map",
+    "static/media/booking-mobile.png": "/zina-portfolio/static/media/booking-mobile.672ec63e.png",
     "static/media/designecologist.jpg": "/zina-portfolio/static/media/designecologist.971f16e9.jpg",
-    "static/media/food.jpg": "/zina-portfolio/static/media/food.2edff820.jpg",
     "static/media/homes.png": "/zina-portfolio/static/media/homes.954ffb67.png",
     "static/media/reading-about-code-on-hackernoon.jpg": "/zina-portfolio/static/media/reading-about-code-on-hackernoon.e5047b8a.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.9e8c6bdd.js",
-    "static/js/2.9089c548.chunk.js",
-    "static/css/main.3626e8a6.chunk.css",
-    "static/js/main.4dca9d97.chunk.js"
+    "static/js/2.dcde14a0.chunk.js",
+    "static/css/main.bea9c866.chunk.css",
+    "static/js/main.28103705.chunk.js"
   ]
 }
