@@ -3,6 +3,8 @@ import { useState } from 'react';
 
 import Project from './project';
 import './projects.css';
+
+
 import HOMES from './img/homes.png';
 //import image1 from './food.jpg';
 import image2 from './img/reading-about-code-on-hackernoon.jpg';
@@ -32,6 +34,8 @@ function Projects(){
 
 	return (
           <div className = 'container projects'>
+          <h3 className = 'title1'>Projects</h3>
+          <h2 className = 'title2'>Here Is Some Of My Projets</h2>
           {projects.map(prj => (
              <Project 
                name={prj.name} 

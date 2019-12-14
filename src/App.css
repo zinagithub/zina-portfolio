@@ -20,3 +20,15 @@
 .App-link {
   color: #09d3ac;
 }
+.title1 {
+  color : #f39c12;  
+  font-size: 16px;
+  margin : 0;
+  padding : 0;
+}
+.title2 {
+  color : gray; 
+  font-size: 35px;
+  margin-bottom: 50px;
+  margin-top :0;
+}

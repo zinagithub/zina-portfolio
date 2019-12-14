@@ -1,3 +1,22 @@
+.contact {
+	margin-top: 40px;
+}
+.my-contact-form {
+	margin: 20px auto;
+	padding : 20px;	
+	width : 80%;
+
+	background-color: #1dd1a1;
+}
+form div input, textarea {
+	margin-bottom: 10px;
+	padding : 12px;
+	width : 80%;
+}
+textarea {
+   padding: 30px
+}
+
 .footer {
 	margin: 20px;
 	padding: 20px;

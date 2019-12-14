@@ -17,11 +17,45 @@ class Contact extends React.Component {
 
     ); 
   	return (
-  		<div className='footer'>
-  		    <h2>Looking to start a project?</h2>
-          <p>Lets talk</p>                      
+      <div className = "container contact">
+         <h3 className = 'title1'>Contact</h3>
+         <h2 className = 'title2'>Contact me here</h2>
+         <div className = "my-contact-form">
+            <form>
+              <div className = "col-xs-12 col-sm-6">
+              <p>First Name</p>
+
+              <input type="text"id="fname"name="firstname"placeholder="Your name.."/>
+
+              <p>Last Name</p>
+
+              <input type="text"id="lname" name="lastname" placeholder="Your last name.."/>
+              </div>
+
+              <div className = "col-xs-12 col-sm-6">
+              <p>Email</p>
+
+              <input type="email"id="email"name="email"placeholder="Your email"/>
+
+
+              <p>Subject</p>
+
+              <textarea id="subject"name="subject"placeholder="Write something.."></textarea>
+              </div>
+              
+              <button type="submit" className="btn btn-primary btn-lg">Submit</button> 
+            </form>
+
+
+          </div>
+          <div className='footer'>
+          
+            <h2>Looking to start a project?</h2>
+            <p>Lets talk</p>                      
               {displayLinks}           
+          </div>
       </div>
+  		
   		);
   }
 
