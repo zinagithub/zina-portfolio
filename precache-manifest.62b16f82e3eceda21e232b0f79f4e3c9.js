@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "db7b5ecc40a39ae25b13a8a6f73874e1",
+    "revision": "9a61168f277aa23475143ff9c65c9d30",
     "url": "/zina-portfolio/index.html"
   },
   {
-    "revision": "a92a9fa1d4ee049e6b3e",
-    "url": "/zina-portfolio/static/css/main.bea9c866.chunk.css"
+    "revision": "d4ec576c47e33b10a689",
+    "url": "/zina-portfolio/static/css/main.4654946d.chunk.css"
   },
   {
     "revision": "b4420b41a4145497e8ee",
     "url": "/zina-portfolio/static/js/2.dcde14a0.chunk.js"
   },
   {
-    "revision": "a92a9fa1d4ee049e6b3e",
-    "url": "/zina-portfolio/static/js/main.28103705.chunk.js"
+    "revision": "d4ec576c47e33b10a689",
+    "url": "/zina-portfolio/static/js/main.cf2edc92.chunk.js"
   },
   {
     "revision": "c0249f8cd4feb4c6bb9e",
