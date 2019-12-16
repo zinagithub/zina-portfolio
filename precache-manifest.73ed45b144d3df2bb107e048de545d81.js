@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9a61168f277aa23475143ff9c65c9d30",
+    "revision": "6ac196a2f38427156b0c7a5dcad36f65",
     "url": "/zina-portfolio/index.html"
   },
   {
-    "revision": "d4ec576c47e33b10a689",
+    "revision": "d1284460136a8257fe75",
     "url": "/zina-portfolio/static/css/main.4654946d.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/zina-portfolio/static/js/2.dcde14a0.chunk.js"
   },
   {
-    "revision": "d4ec576c47e33b10a689",
-    "url": "/zina-portfolio/static/js/main.cf2edc92.chunk.js"
+    "revision": "d1284460136a8257fe75",
+    "url": "/zina-portfolio/static/js/main.b30f002b.chunk.js"
   },
   {
     "revision": "c0249f8cd4feb4c6bb9e",
@@ -22,6 +22,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "672ec63eb56ef253b6056fedda55bda7",
     "url": "/zina-portfolio/static/media/booking-mobile.672ec63e.png"
+  },
+  {
+    "revision": "1fba0fe067210ec7c35413a1b5f895b8",
+    "url": "/zina-portfolio/static/media/bookstore.1fba0fe0.png"
   },
   {
     "revision": "971f16e96f243ca10f35480d21a58a8a",

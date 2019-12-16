@@ -1,17 +1,18 @@
 {
   "files": {
     "main.css": "/zina-portfolio/static/css/main.4654946d.chunk.css",
-    "main.js": "/zina-portfolio/static/js/main.cf2edc92.chunk.js",
-    "main.js.map": "/zina-portfolio/static/js/main.cf2edc92.chunk.js.map",
+    "main.js": "/zina-portfolio/static/js/main.b30f002b.chunk.js",
+    "main.js.map": "/zina-portfolio/static/js/main.b30f002b.chunk.js.map",
     "runtime-main.js": "/zina-portfolio/static/js/runtime-main.9e8c6bdd.js",
     "runtime-main.js.map": "/zina-portfolio/static/js/runtime-main.9e8c6bdd.js.map",
     "static/js/2.dcde14a0.chunk.js": "/zina-portfolio/static/js/2.dcde14a0.chunk.js",
     "static/js/2.dcde14a0.chunk.js.map": "/zina-portfolio/static/js/2.dcde14a0.chunk.js.map",
     "index.html": "/zina-portfolio/index.html",
-    "precache-manifest.62b16f82e3eceda21e232b0f79f4e3c9.js": "/zina-portfolio/precache-manifest.62b16f82e3eceda21e232b0f79f4e3c9.js",
+    "precache-manifest.73ed45b144d3df2bb107e048de545d81.js": "/zina-portfolio/precache-manifest.73ed45b144d3df2bb107e048de545d81.js",
     "service-worker.js": "/zina-portfolio/service-worker.js",
     "static/css/main.4654946d.chunk.css.map": "/zina-portfolio/static/css/main.4654946d.chunk.css.map",
     "static/media/booking-mobile.png": "/zina-portfolio/static/media/booking-mobile.672ec63e.png",
+    "static/media/bookstore.png": "/zina-portfolio/static/media/bookstore.1fba0fe0.png",
     "static/media/designecologist.jpg": "/zina-portfolio/static/media/designecologist.971f16e9.jpg",
     "static/media/homes.png": "/zina-portfolio/static/media/homes.954ffb67.png",
     "static/media/reading-about-code-on-hackernoon.jpg": "/zina-portfolio/static/media/reading-about-code-on-hackernoon.e5047b8a.jpg"
@@ -20,6 +21,6 @@
     "static/js/runtime-main.9e8c6bdd.js",
     "static/js/2.dcde14a0.chunk.js",
     "static/css/main.4654946d.chunk.css",
-    "static/js/main.cf2edc92.chunk.js"
+    "static/js/main.b30f002b.chunk.js"
   ]
 }
