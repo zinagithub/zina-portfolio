@@ -7,7 +7,7 @@ import './projects.css';
 
 import HOMES from './img/homes.png';
 import BookStore from './img/bookstore.png';
-import image2 from './img/reading-about-code-on-hackernoon.jpg';
+import image2 from './img/calculator.png';
 import image3 from './designecologist.jpg';
 import image4 from './booking-mobile.png';
 
@@ -28,7 +28,13 @@ function Projects(){
           href1 : 'https://dribbble.com/shots/8626937/attachments/884233?mode=media',
           href2 : 'https://zinagithub.github.io/booking-mobile/'
         },
-        {name: 'Facebook', description: 'RoR prject',img:image2},
+        {
+          name: 'Calculator', 
+          description: 'React Calculator project',
+          img:image2,
+          href1 : 'https://github.com/microverseinc/project-react-calculator/blob/master/README.md',
+          href2 : 'https://calculator-tool.herokuapp.com/'
+        },
         {
           name: 'Bookstore', 
           description: 'React javascript store books project',
