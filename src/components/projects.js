@@ -6,7 +6,7 @@ import './projects.css';
 
 
 import HOMES from './img/homes.png';
-//import image1 from './food.jpg';
+import BookStore from './img/bookstore.png';
 import image2 from './img/reading-about-code-on-hackernoon.jpg';
 import image3 from './designecologist.jpg';
 import image4 from './booking-mobile.png';
@@ -29,7 +29,13 @@ function Projects(){
           href2 : 'https://zinagithub.github.io/booking-mobile/'
         },
         {name: 'Facebook', description: 'RoR prject',img:image2},
-        {name: 'Bookstore', description: 'React javascript store books project',img:image3}
+        {
+          name: 'Bookstore', 
+          description: 'React javascript store books project',
+          img:BookStore,
+          href1 : 'https://github.com/microverseinc/project-redux-bookstore/blob/master/README.md',
+          href2 : 'https://zinagithub.github.io/bookstore/'
+        }
 		  ]);
 
 	return (
