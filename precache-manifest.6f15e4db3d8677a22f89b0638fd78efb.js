@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6ac196a2f38427156b0c7a5dcad36f65",
+    "revision": "59bf2a9d26bbbb25cec2c1fd9b681c9f",
     "url": "/zina-portfolio/index.html"
   },
   {
-    "revision": "d1284460136a8257fe75",
+    "revision": "e56334c8651e9ea9d7d1",
     "url": "/zina-portfolio/static/css/main.4654946d.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/zina-portfolio/static/js/2.dcde14a0.chunk.js"
   },
   {
-    "revision": "d1284460136a8257fe75",
-    "url": "/zina-portfolio/static/js/main.b30f002b.chunk.js"
+    "revision": "e56334c8651e9ea9d7d1",
+    "url": "/zina-portfolio/static/js/main.5e827bb5.chunk.js"
   },
   {
     "revision": "c0249f8cd4feb4c6bb9e",
@@ -34,9 +34,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "954ffb67a832ee00905bf248643b8638",
     "url": "/zina-portfolio/static/media/homes.954ffb67.png"
-  },
-  {
-    "revision": "e5047b8a5052a36a55a8340347da00e2",
-    "url": "/zina-portfolio/static/media/reading-about-code-on-hackernoon.e5047b8a.jpg"
   }
 ]);
