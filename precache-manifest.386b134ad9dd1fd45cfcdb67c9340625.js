@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "59bf2a9d26bbbb25cec2c1fd9b681c9f",
+    "revision": "07a5d060e1ee6d2546d031ab7b389ae1",
     "url": "/zina-portfolio/index.html"
   },
   {
-    "revision": "e56334c8651e9ea9d7d1",
+    "revision": "9aa5b18e99c5de11ab26",
     "url": "/zina-portfolio/static/css/main.4654946d.chunk.css"
   },
   {
-    "revision": "b4420b41a4145497e8ee",
-    "url": "/zina-portfolio/static/js/2.dcde14a0.chunk.js"
+    "revision": "4d65b2f953ef284372bc",
+    "url": "/zina-portfolio/static/js/2.db11df5c.chunk.js"
   },
   {
-    "revision": "e56334c8651e9ea9d7d1",
-    "url": "/zina-portfolio/static/js/main.5e827bb5.chunk.js"
+    "revision": "9aa5b18e99c5de11ab26",
+    "url": "/zina-portfolio/static/js/main.7cd6e94d.chunk.js"
   },
   {
     "revision": "c0249f8cd4feb4c6bb9e",
@@ -24,12 +24,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/zina-portfolio/static/media/booking-mobile.672ec63e.png"
   },
   {
-    "revision": "1fba0fe067210ec7c35413a1b5f895b8",
-    "url": "/zina-portfolio/static/media/bookstore.1fba0fe0.png"
+    "revision": "6918f28b103af48009e6177bf5b4e21e",
+    "url": "/zina-portfolio/static/media/bookstore.6918f28b.png"
   },
   {
-    "revision": "971f16e96f243ca10f35480d21a58a8a",
-    "url": "/zina-portfolio/static/media/designecologist.971f16e9.jpg"
+    "revision": "2eea8bb9c44c818d5a22013a11c43720",
+    "url": "/zina-portfolio/static/media/calculator.2eea8bb9.png"
   },
   {
     "revision": "954ffb67a832ee00905bf248643b8638",
