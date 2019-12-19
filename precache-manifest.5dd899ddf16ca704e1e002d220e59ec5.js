@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "07a5d060e1ee6d2546d031ab7b389ae1",
+    "revision": "cee58c2295832810a16e1efd922246c6",
     "url": "/zina-portfolio/index.html"
   },
   {
-    "revision": "9aa5b18e99c5de11ab26",
+    "revision": "09f6530aad6e4ed71529",
     "url": "/zina-portfolio/static/css/main.4654946d.chunk.css"
   },
   {
-    "revision": "4d65b2f953ef284372bc",
-    "url": "/zina-portfolio/static/js/2.db11df5c.chunk.js"
+    "revision": "65eb87012ec94f6b54c1",
+    "url": "/zina-portfolio/static/js/2.59aeb0a7.chunk.js"
   },
   {
-    "revision": "9aa5b18e99c5de11ab26",
-    "url": "/zina-portfolio/static/js/main.7cd6e94d.chunk.js"
+    "revision": "09f6530aad6e4ed71529",
+    "url": "/zina-portfolio/static/js/main.e5de120c.chunk.js"
   },
   {
     "revision": "c0249f8cd4feb4c6bb9e",
@@ -34,5 +34,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "954ffb67a832ee00905bf248643b8638",
     "url": "/zina-portfolio/static/media/homes.954ffb67.png"
+  },
+  {
+    "revision": "4e53dbc8189a1573e47ef425a9fe8986",
+    "url": "/zina-portfolio/static/media/railsbook.4e53dbc8.png"
   }
 ]);
