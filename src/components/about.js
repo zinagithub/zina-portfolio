@@ -1,4 +1,5 @@
 import React from 'react';
+import {Link} from "react-router-dom";
 import './about.css'
 
 
@@ -17,11 +18,13 @@ class About extends React.Component {
         <div className = 'container'>
            <h1 className = 'herTitle'>About Me</h1>
            <h1 className="parag">I’m Zina Talaa, a software engineer and web developer living
-            in <a>ALGERIA</a>, looking for Front-End postion.
+            in <a href =  "https://en.wikipedia.org/wiki/Algeria">ALGERIA</a>, looking for Front-End postion.
            </h1>
            
   		 </div>
+       <Link to="/contact">
        <button className="btn btn-primary btn-lg">Contact</button>
+       </Link>
        </div>
  		);
   }

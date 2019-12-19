@@ -7,8 +7,8 @@ import './projects.css';
 
 import HOMES from './img/homes.png';
 import BookStore from './img/bookstore.png';
+import RailsBook from './img/railsbook.png';
 import image2 from './img/calculator.png';
-import image3 from './designecologist.jpg';
 import image4 from './booking-mobile.png';
 
 
@@ -41,6 +41,13 @@ function Projects(){
           img:BookStore,
           href1 : 'https://github.com/microverseinc/project-redux-bookstore/blob/master/README.md',
           href2 : 'https://zinagithub.github.io/bookstore/'
+        },
+        {
+          name: 'RailsBook', 
+          description: 'Rails project simulating Facebook functionality ',
+          img:RailsBook,
+          href1 : 'https://www.theodinproject.com/courses/ruby-on-rails/lessons/final-project',
+          href2 : 'https://fd-railsbook.herokuapp.com/'
         }
 		  ]);
 
@@ -48,8 +55,9 @@ function Projects(){
           <div className = 'container projects'>
           <h3 className = 'title1'>Projects</h3>
           <h2 className = 'title2'>Here Is Some Of My Projets</h2>
-          {projects.map(prj => (
+          {projects.map((prj,ind) => (
              <Project 
+               key = {ind}
                name={prj.name} 
                description= {prj.description} 
                img = {prj.img}

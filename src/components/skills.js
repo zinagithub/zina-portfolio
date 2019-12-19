@@ -87,7 +87,7 @@ class Icons extends React.Component {
               alt={this.props.altTxt}
               width="100" 
               height="100" 
-              class ="img-rounded"
+              className ="img-rounded"
             />
             <h4>{this.props.myTitle}</h4>
             <p>{this.props.desc}</p>

@@ -8,7 +8,7 @@ class Navigation extends React.Component {
   	const arrLinks = ['Home','About','Skills','Projects','Contact'];
     const navColor = {color : '#212529'};
     const displayLinks = arrLinks.map((val, i) => {
-    	return <Link to = {'/' + val} style = {navColor} ><li key = {i}>{val}</li></Link>
+    	return <Link to = {'/' + val} style = {navColor} key = {i} ><li>{val}</li> </Link>
     }
 
     ); 
