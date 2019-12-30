@@ -8,6 +8,7 @@ import './projects.css';
 import HOMES from './img/homes.png';
 import BookStore from './img/bookstore.png';
 import RailsBook from './img/railsbook.png';
+import Battleship from './img/battleship.png';
 import image2 from './img/calculator.png';
 import image4 from './booking-mobile.png';
 
@@ -32,22 +33,29 @@ function Projects(){
           name: 'Calculator', 
           description: 'React Calculator project',
           img:image2,
-          href1 : 'https://github.com/microverseinc/project-react-calculator/blob/master/README.md',
+          href1 : 'https://github.com/zinagithub/calculator-tool',
           href2 : 'https://calculator-tool.herokuapp.com/'
         },
         {
           name: 'Bookstore', 
-          description: 'React javascript store books project',
+          description: 'React Redux store books project',
           img:BookStore,
-          href1 : 'https://github.com/microverseinc/project-redux-bookstore/blob/master/README.md',
+          href1 : 'https://github.com/zinagithub/bookstore',
           href2 : 'https://zinagithub.github.io/bookstore/'
         },
         {
           name: 'RailsBook', 
           description: 'Rails project simulating Facebook functionality ',
           img:RailsBook,
-          href1 : 'https://www.theodinproject.com/courses/ruby-on-rails/lessons/final-project',
+          href1 : 'https://github.com/zinagithub/odin_facebook',
           href2 : 'https://fd-railsbook.herokuapp.com/'
+        },
+        {
+          name: 'Battleship', 
+          description: 'Battleship project simulating Battleship game functionality ',
+          img:Battleship,
+          href1 : 'https://github.com/zinagithub/battleship',
+          href2 : 'https://zinagithub.github.io/battleship/dist/'
         }
 		  ]);
 
