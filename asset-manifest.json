@@ -1,16 +1,17 @@
 {
   "files": {
     "main.css": "/zina-portfolio/static/css/main.4654946d.chunk.css",
-    "main.js": "/zina-portfolio/static/js/main.e5de120c.chunk.js",
-    "main.js.map": "/zina-portfolio/static/js/main.e5de120c.chunk.js.map",
+    "main.js": "/zina-portfolio/static/js/main.cede8f93.chunk.js",
+    "main.js.map": "/zina-portfolio/static/js/main.cede8f93.chunk.js.map",
     "runtime-main.js": "/zina-portfolio/static/js/runtime-main.9e8c6bdd.js",
     "runtime-main.js.map": "/zina-portfolio/static/js/runtime-main.9e8c6bdd.js.map",
-    "static/js/2.59aeb0a7.chunk.js": "/zina-portfolio/static/js/2.59aeb0a7.chunk.js",
-    "static/js/2.59aeb0a7.chunk.js.map": "/zina-portfolio/static/js/2.59aeb0a7.chunk.js.map",
+    "static/js/2.da004529.chunk.js": "/zina-portfolio/static/js/2.da004529.chunk.js",
+    "static/js/2.da004529.chunk.js.map": "/zina-portfolio/static/js/2.da004529.chunk.js.map",
     "index.html": "/zina-portfolio/index.html",
-    "precache-manifest.5dd899ddf16ca704e1e002d220e59ec5.js": "/zina-portfolio/precache-manifest.5dd899ddf16ca704e1e002d220e59ec5.js",
+    "precache-manifest.08b589f19b2e3f40e0700a83b9079ffa.js": "/zina-portfolio/precache-manifest.08b589f19b2e3f40e0700a83b9079ffa.js",
     "service-worker.js": "/zina-portfolio/service-worker.js",
     "static/css/main.4654946d.chunk.css.map": "/zina-portfolio/static/css/main.4654946d.chunk.css.map",
+    "static/media/battleship.png": "/zina-portfolio/static/media/battleship.19c62599.png",
     "static/media/booking-mobile.png": "/zina-portfolio/static/media/booking-mobile.672ec63e.png",
     "static/media/bookstore.png": "/zina-portfolio/static/media/bookstore.6918f28b.png",
     "static/media/calculator.png": "/zina-portfolio/static/media/calculator.2eea8bb9.png",
@@ -19,8 +20,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.9e8c6bdd.js",
-    "static/js/2.59aeb0a7.chunk.js",
+    "static/js/2.da004529.chunk.js",
     "static/css/main.4654946d.chunk.css",
-    "static/js/main.e5de120c.chunk.js"
+    "static/js/main.cede8f93.chunk.js"
   ]
 }

@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cee58c2295832810a16e1efd922246c6",
+    "revision": "724dd7c508b9b3d4c2866625c4b5505e",
     "url": "/zina-portfolio/index.html"
   },
   {
-    "revision": "09f6530aad6e4ed71529",
+    "revision": "46019f9b6a9f029f2f62",
     "url": "/zina-portfolio/static/css/main.4654946d.chunk.css"
   },
   {
-    "revision": "65eb87012ec94f6b54c1",
-    "url": "/zina-portfolio/static/js/2.59aeb0a7.chunk.js"
+    "revision": "a5785a0f059c9e994089",
+    "url": "/zina-portfolio/static/js/2.da004529.chunk.js"
   },
   {
-    "revision": "09f6530aad6e4ed71529",
-    "url": "/zina-portfolio/static/js/main.e5de120c.chunk.js"
+    "revision": "46019f9b6a9f029f2f62",
+    "url": "/zina-portfolio/static/js/main.cede8f93.chunk.js"
   },
   {
     "revision": "c0249f8cd4feb4c6bb9e",
     "url": "/zina-portfolio/static/js/runtime-main.9e8c6bdd.js"
+  },
+  {
+    "revision": "19c625997ef6196a1548cb8e7c3e1cf6",
+    "url": "/zina-portfolio/static/media/battleship.19c62599.png"
   },
   {
     "revision": "672ec63eb56ef253b6056fedda55bda7",
