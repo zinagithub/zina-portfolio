@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/zinatalaa.codes/static/css/main.4654946d.chunk.css",
-    "main.js": "/zinatalaa.codes/static/js/main.7ebb6246.chunk.js",
-    "main.js.map": "/zinatalaa.codes/static/js/main.7ebb6246.chunk.js.map",
-    "runtime-main.js": "/zinatalaa.codes/static/js/runtime-main.4d34a863.js",
-    "runtime-main.js.map": "/zinatalaa.codes/static/js/runtime-main.4d34a863.js.map",
-    "static/js/2.da004529.chunk.js": "/zinatalaa.codes/static/js/2.da004529.chunk.js",
-    "static/js/2.da004529.chunk.js.map": "/zinatalaa.codes/static/js/2.da004529.chunk.js.map",
-    "index.html": "/zinatalaa.codes/index.html",
-    "precache-manifest.c6840f83c65884e4a93c52c2ad7a8272.js": "/zinatalaa.codes/precache-manifest.c6840f83c65884e4a93c52c2ad7a8272.js",
-    "service-worker.js": "/zinatalaa.codes/service-worker.js",
-    "static/css/main.4654946d.chunk.css.map": "/zinatalaa.codes/static/css/main.4654946d.chunk.css.map",
-    "static/media/battleship.png": "/zinatalaa.codes/static/media/battleship.19c62599.png",
-    "static/media/booking-mobile.png": "/zinatalaa.codes/static/media/booking-mobile.672ec63e.png",
-    "static/media/bookstore.png": "/zinatalaa.codes/static/media/bookstore.6918f28b.png",
-    "static/media/calculator.png": "/zinatalaa.codes/static/media/calculator.2eea8bb9.png",
-    "static/media/homes.png": "/zinatalaa.codes/static/media/homes.954ffb67.png",
-    "static/media/railsbook.png": "/zinatalaa.codes/static/media/railsbook.4e53dbc8.png"
+    "main.css": "/static/css/main.4654946d.chunk.css",
+    "main.js": "/static/js/main.8a21bf06.chunk.js",
+    "main.js.map": "/static/js/main.8a21bf06.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.10f4ed52.js",
+    "runtime-main.js.map": "/static/js/runtime-main.10f4ed52.js.map",
+    "static/js/2.b9c14939.chunk.js": "/static/js/2.b9c14939.chunk.js",
+    "static/js/2.b9c14939.chunk.js.map": "/static/js/2.b9c14939.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.906bf7fa10916f1bece2c61f7ed50bd4.js": "/precache-manifest.906bf7fa10916f1bece2c61f7ed50bd4.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.4654946d.chunk.css.map": "/static/css/main.4654946d.chunk.css.map",
+    "static/media/battleship.png": "/static/media/battleship.19c62599.png",
+    "static/media/booking-mobile.png": "/static/media/booking-mobile.672ec63e.png",
+    "static/media/bookstore.png": "/static/media/bookstore.6918f28b.png",
+    "static/media/calculator.png": "/static/media/calculator.2eea8bb9.png",
+    "static/media/homes.png": "/static/media/homes.954ffb67.png",
+    "static/media/railsbook.png": "/static/media/railsbook.4e53dbc8.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.4d34a863.js",
-    "static/js/2.da004529.chunk.js",
+    "static/js/runtime-main.10f4ed52.js",
+    "static/js/2.b9c14939.chunk.js",
     "static/css/main.4654946d.chunk.css",
-    "static/js/main.7ebb6246.chunk.js"
+    "static/js/main.8a21bf06.chunk.js"
   ]
 }
