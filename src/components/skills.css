@@ -1,6 +1,13 @@
 .skills {
-   /*background-color: #1d809f;*/
-   padding-bottom: 120px;
-   padding-top: 120px;
+   padding-bottom: 30px;
+   padding-top: 30px;
    text-align: center;
+}
+.title {
+  color : #f39c12;  
+  font-size: 35px;
+  /*margin : 10px;
+  padding : 10px;*/
+  text-align : center;
+  text-decoration: underline;
 }

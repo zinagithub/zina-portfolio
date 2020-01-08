@@ -12,8 +12,8 @@ function Project(props){
                  <h3>{props.name}</h3>
                  <p>{props.description}</p>
                  <div className='linksPrj'>
-                  <a href={props.href1}>Github</a>
-                  <a href={props.href2}>Live</a>
+                  <a href={props.href1} target="_blank">Github</a>
+                  <a href={props.href2} target="_blank">Live</a>
                </div>
                </div>
 

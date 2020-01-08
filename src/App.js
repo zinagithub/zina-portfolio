@@ -9,8 +9,8 @@ import {BrowserRouter as Router , Switch, Route} from 'react-router-dom';
 const Home = () => (
   <div>
      <About />
-     <Skills />
      <Projects />
+     <Skills />   
      <Contact />
   </div>
 );
@@ -22,8 +22,8 @@ function App() {
           <Header />
           <Switch>
           <Route path = "/about" component = {About} />
-          <Route path = "/skills" component = {Skills} />
           <Route path = "/projects" component = {Projects} />
+          <Route path = "/skills" component = {Skills} />  
           <Route path = "/contact" component = {Contact} />
           <Route path = "/"  component = {Home} />
           </Switch>

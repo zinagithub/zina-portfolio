@@ -3,6 +3,7 @@ import { useState } from 'react';
 
 import Project from './project';
 import './projects.css';
+import './skills.css';
 
 
 import HOMES from './img/homes.png';
@@ -17,16 +18,16 @@ function Projects(){
 	const [projects, setProjects] = useState([
         {
           name: 'Houses', 
-          description: 'Clone of a chosen dribble design with React',
+          description: 'A real estate concept design created using CSS and React. Based off of Dribble Real Advisor Homepage Exploration 02 design by Jakub Reis.',
           img:HOMES,
-          href1 : 'https://dribbble.com/shots/8214828-Real-Advisor-Homepage-Exploration-02/attachments/589156?mode=media',
+          href1 : 'https://github.com/zinagithub/homes',
           href2 : 'http://zinagithub.github.io/homes'
         },
         {
           name: 'Booking-Mobile', 
-          description: 'Clone of a chosen dribble design with HTML-CSS',
+          description: 'Clone of a Yacht Booking Mobile First Dribble design, designed by Valentine Boyev for Halo Lab,using HTML-CSS',
           img:image4,
-          href1 : 'https://dribbble.com/shots/8626937/attachments/884233?mode=media',
+          href1 : 'https://github.com/zinagithub/booking-mobile',
           href2 : 'https://zinagithub.github.io/booking-mobile/'
         },
         {
@@ -61,8 +62,8 @@ function Projects(){
 
 	return (
           <div className = 'container projects'>
-          <h3 className = 'title1'>Projects</h3>
-          <h2 className = 'title2'>Here Is Some Of My Projets</h2>
+          <h3 className = 'title'>Projects</h3>
+          
           {projects.map((prj,ind) => (
              <Project 
                key = {ind}

@@ -5,7 +5,8 @@ import JS from './img/js.png';
 import REACT from './img/react.png';
 import RUBY from './img/ruby.jpeg';
 import RAILS from './img/rails.png';
-import './skills.css'
+import './skills.css';
+
 
 class Skills extends React.Component {
 
@@ -13,8 +14,7 @@ class Skills extends React.Component {
   	
   	return (
   		 <div className = 'skills'>
-            <h3 className = 'title1'>Skills</h3>
-            <h2 className = 'title2'>Here is my Skills</h2>
+            <h3 className = 'title'>Skills</h3>
             <div className = 'container'>
             <div className = 'row'>
             
@@ -22,8 +22,7 @@ class Skills extends React.Component {
 
               arrIcons.map((elm, index) => {
               
-               return (<Icons key = {index} myIcon = {elm.icon} altTxt={elm.alt}  myTitle= {elm.title} 
-                             desc = {elm.description} />)
+               return (<Icons key = {index} myIcon = {elm.icon} altTxt={elm.alt}  myTitle= {elm.title}  />)
               })  
               }
              
