@@ -43,7 +43,7 @@ class Contact extends React.Component {
               <textarea id="subject"name="subject"placeholder="Write something.."></textarea>
               </div>
               
-              <button type="submit" className="btn btn-primary btn-lg">Submit</button> 
+              <button type="submit" className="btn btn-primary btn-lg ctc-btn">Submit</button> 
             </form>
 
 

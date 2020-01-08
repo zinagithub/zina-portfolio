@@ -32,28 +32,28 @@ function Projects(){
         },
         {
           name: 'Calculator', 
-          description: 'React Calculator project',
+          description: 'Calculator app where functionality are basically addition, subtraction, multiplication, division using the front-end framework React',
           img:image2,
           href1 : 'https://github.com/zinagithub/calculator-tool',
           href2 : 'https://calculator-tool.herokuapp.com/'
         },
         {
           name: 'Bookstore', 
-          description: 'React Redux store books project',
+          description: 'A bookstore app using React and Redux that allows users to keep track of their reading progress and sort their online libraries by genre and author',
           img:BookStore,
           href1 : 'https://github.com/zinagithub/bookstore',
           href2 : 'https://zinagithub.github.io/bookstore/'
         },
         {
           name: 'RailsBook', 
-          description: 'Rails project simulating Facebook functionality ',
+          description: 'Fully-featured social media app built with Ruby, Ruby on Rails, deploy at Heroku, where me and my partner had created systems that manage users, posts, and comments. ',
           img:RailsBook,
           href1 : 'https://github.com/zinagithub/odin_facebook',
           href2 : 'https://fd-railsbook.herokuapp.com/'
         },
         {
           name: 'Battleship', 
-          description: 'Battleship project simulating Battleship game functionality ',
+          description: "An online Battleship app that simulates the function of the original Battleship board game, allowing users to play against a computer until your opponent's ships are all sunk.", 
           img:Battleship,
           href1 : 'https://github.com/zinagithub/battleship',
           href2 : 'https://zinagithub.github.io/battleship/dist/'
