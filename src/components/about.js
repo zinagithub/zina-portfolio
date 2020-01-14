@@ -1,6 +1,6 @@
 import React from 'react';
 import {Link} from "react-router-dom";
-import './about.css'
+import './about.css';
 
 
 
@@ -18,7 +18,7 @@ class About extends React.Component {
         <div className = 'container'>
            <h1 className = 'herTitle'>Hi,</h1>
            <h1 className="parag">I’m Zina Talaa, a software engineer and web developer living
-            in <a href =  'https://en.wikipedia.org/wiki/Algeria' target="_blank">ALGERIA</a>, looking for my next Front-end position.</h1>
+            in <a href =  'https://en.wikipedia.org/wiki/Algeria' target="_blank" rel="noopener noreferrer">ALGERIA</a>, looking for my next Front-end position.</h1>
            <Link to="/contact">
              <button className="btn btn-primary btn-lg">Contact</button>
            </Link>

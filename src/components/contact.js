@@ -13,7 +13,7 @@ class Contact extends React.Component {
     {name :'Instagram', adress :'https://www.instagram.com/zinatalaa/'},
     {name:'Email', adress :'mailto:talazina@gmail.com'}];
     const displayLinks = arrLinks.map((val, i) => {
-    	return <div className="col-xs-12  col-sm-2 links" key = {i}><a href = {val.adress} target="_blank" >{val.name} </a></div>
+    	return <div className="col-xs-12  col-sm-2 links" key = {i}><a href = {val.adress} target="_blank" rel="noopener noreferrer">{val.name} </a></div>
     }
 
     ); 
@@ -22,6 +22,7 @@ class Contact extends React.Component {
          <h3 className = 'title'>Contact</h3>
          <div className = "my-contact-form">
             <form>
+
               <div className = "col-xs-12 col-sm-6">
               <p>First Name</p>
 
@@ -35,7 +36,7 @@ class Contact extends React.Component {
               <div className = "col-xs-12 col-sm-6">
               <p>Email</p>
 
-              <input type="email"id="email"name="email"placeholder="Your email"/>
+              <input type="email"id="email"name="email"placeholder="Your email" />
 
 
               <p>Subject</p>
