@@ -10,7 +10,9 @@ function Project(props){
 		       <div className = 'project'>
 		         <img src = {props.img} alt = {props.name} width = "100%" height="300" />
                  <h3>{props.name}</h3>
-                 <p>{props.description}</p>
+                 <div className = "description">
+                    <p>{props.description}</p>
+                 </div>
                  <div className='linksPrj'>
                   <a href={props.href1} target="_blank" rel="noopener noreferrer">Github</a>
                   <a href={props.href2} target="_blank" rel="noopener noreferrer">Live</a>
