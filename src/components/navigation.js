@@ -14,11 +14,7 @@ class Navigation extends React.Component {
     ); 
   	return (
   		 <nav>
-  		    <h1 className = 'logo'><span className = 'zLetter'>Z</span>
-                                 <span className = 'iLetter'>i</span>
-                                 <span className = 'nLetter'>n</span>
-                                 <span className = 'aLetter'>a</span>
-          </h1>
+  		      <img src= "logo.svg" alt= "zina logo" width='100' height= '100'/>
             <ul>
             	{displayLinks}
             </ul>

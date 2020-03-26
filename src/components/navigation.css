@@ -16,21 +16,9 @@ nav ul li a {
 	color : #212529;
 	text-decoration: none;
 }
-.zLetter {
-	color : #ff7675;
-	font-size: 40px;
-	font-style: italic;
-	position : relative;	
+img {
+	transition : transform 0.5s;
 }
-.aLetter,  .iLetter {
-   color : #f39c12;	
-   text-transform: uppercase;
-}
-.nLetter {
-	color : #1dd1a1;
-	font-size: 45px;
-	font-style: italic;
-	position : relative;	
-	text-transform: uppercase;
-	top : -10px;
+img:hover{
+	transform: scale(0.9);
 }
